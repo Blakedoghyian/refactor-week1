@@ -10,7 +10,5 @@
 ## Contribution
 * Blake D
 
-## Live Link
-
 
 ### ©️2019 Horiseon Social Solution Services, Inc.
